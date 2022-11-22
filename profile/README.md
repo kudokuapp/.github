@@ -7,6 +7,8 @@
 <p align="center">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/kudokuapp?style=social">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kudokuapp?style=social">
+
+<img alt="Kontol" src="https://visitor-badge.glitch.me/badge?page_id=kudokuapp..github">
 </p>
 
 ---
